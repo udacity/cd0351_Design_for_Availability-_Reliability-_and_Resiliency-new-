@@ -12,7 +12,7 @@ In this project, you will use the AWS CloudFormation to create Virtual Private C
 
 CloudFormation allows you to use a configuration file written in a YAML file to automate the creation of AWS resources such as VPCs. In this project, you will use a pre-made CloudFormation template to get you started. This will allow you to create some of the infrastructure that you'll need without spending a lot of time learning details that are beyond the scope of this course.
 
-You can find the YAML file in the GitHub repo: https://github.com/udacity/nd063-c2-design-for-availability-resilience-reliability-replacement-project-starter-template/blob/master/cloudformation/vpc.yaml
+You can find the YAML file in the GitHub repo:https://github.com/udacity/cd0351_Design_for_Availability-_Reliability-_and_Resiliency-new-/blob/main/cloudformation/vpc.yaml
 
 In order to build a VPC from the YAML file, follow the steps:
 
